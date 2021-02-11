@@ -1,1 +1,5 @@
 Zmiana w pliku.
+
+
+
+Eksperymentalna finkcja
